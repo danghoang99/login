@@ -345,8 +345,16 @@
         margin-left: 0px;
         margin-left: 2.5%;
     }
+   .right2 p {
+        margin-top: 10px;
+    }
     .right2 img {
+        width: 80px;
+        height: 80px;
         display: block;
+    }
+    .right2 .ctv {
+       margin-left: -8px;
     }
     .right4 {
         position: absolute;
